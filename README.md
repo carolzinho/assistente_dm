@@ -25,9 +25,9 @@ O modelo:
 - Confirmação inteligente de agendamento
 - Arquitetura preparada para RAG e APIs externas
 
-## Tecnologias Utilizadas
+## Stack
 
-- Python 3.10+
+- Python 3.10
 - Google Gemini (LLM)
 
 ---
