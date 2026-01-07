@@ -33,6 +33,16 @@ O modelo:
 ---
 
 ## COMO USAR:
+
+Este projeto utiliza a API do Google Gemini. Configure o ambiente para rodar localmente:
+
+1. Crie uma chave de API no Google AI Studio: https://aistudio.google.com/app/apikey
+2. Crie um arquivo `.env` na raiz do projeto
+3. Adicione sua chave no seguinte formato:
+
+```env
+GOOGLE_API_KEY=YOUR_GEMINI_API_KEY
+
 Instalar e realizar a execução local do arquivo via terminal:
 
 ```bash
