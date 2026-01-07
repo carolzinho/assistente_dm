@@ -41,7 +41,7 @@ Este projeto utiliza a API do Google Gemini. Configure o ambiente para rodar loc
 3. Adicione sua chave no seguinte formato:
 
 ```env
-GOOGLE_API_KEY=YOUR_GEMINI_API_KEY
+GOOGLE_API_KEY=SUACHAVEAQUI
 
 Instalar e realizar a execução local do arquivo via terminal:
 
